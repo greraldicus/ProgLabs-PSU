@@ -1,0 +1,18 @@
+var random = new Random();
+var tuples = new List<Tuple<int, int>>();
+
+for (int i = 0; i < 50; i++)
+{
+    var item1 = random.Next(-1000000, 1000000);
+    var item2 = random.Next(1, 1000);
+    tuples.Add(Tuple.Create(item1, item2));
+}
+
+// Сортировка по убыванию
+//tuples = tuples.OrderByDescending(t => t.Item2).ToList();
+
+// Пример использования созданных Tuple
+foreach (var tuple in tuples)
+{
+    Console.WriteLine("Tuple.Create" + tuple + ",");
+}

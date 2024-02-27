@@ -1,0 +1,15 @@
+var random = new Random();
+var poly1 = new List<(int, int)>();
+var poly2 = new List<(int, int)>();
+
+for (int i = 0; i < 50; i++)
+{
+    var item1 = random.Next(-1000000, 1000000);
+    var item2 = random.Next(1, 1000);
+    poly1.Add((item1, item2));
+}
+
+//poly1 = poly1.OrderByDescending(t => t.Item2).ToList();
+
+// Пример использования созданных полиномов
+Console.WriteLine("Poly1: " + string.Join(", ", poly1));

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>baby</Name>
+    <Surname>mama</Surname>
+    <Faculty>1</Faculty>
+  </Student>
+  <Student>
+    <Name>oleg</Name>
+    <Surname>pidor</Surname>
+    <Faculty>2</Faculty>
+  </Student>
+  <Student>
+    <Name>popa</Name>
+    <Surname>pisya</Surname>
+    <Faculty>1</Faculty>
+  </Student>
+</ArrayOfStudent>

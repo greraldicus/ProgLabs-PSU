@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>baba</Name>
+    <Surname>dfds</Surname>
+    <Faculty>sdfs</Faculty>
+  </Student>
+  <Student>
+    <Name>sfd</Name>
+    <Surname>sdfs</Surname>
+    <Faculty>sdfsd</Faculty>
+  </Student>
+  <Student>
+    <Name>asfas</Name>
+    <Surname>asfas</Surname>
+    <Faculty>asdf</Faculty>
+  </Student>
+</ArrayOfStudent>

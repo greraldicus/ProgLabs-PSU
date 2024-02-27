@@ -1,0 +1,14 @@
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\bin\Debug\STUDENTS LAB TRY 2.exe.config
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\bin\Debug\STUDENTS LAB TRY 2.exe
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\bin\Debug\STUDENTS LAB TRY 2.pdb
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.csproj.AssemblyReference.cache
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS_LAB_TRY_2.Form1.resources
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS_LAB_TRY_2.Properties.Resources.resources
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.csproj.GenerateResource.cache
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.exe
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.pdb
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Григорий\source\repos\STUDENTS LAB TRY 2\STUDENTS LAB TRY 2\obj\Debug\STUDENTS LAB TRY 2.csproj.CopyComplete
